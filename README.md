@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mpoveda0208/hello-world/_apis/build/status/marconipoveda.pipelines-javascript?branchName=master)](https://dev.azure.com/mpoveda0208/hello-world/_build/latest?definitionId=2&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
